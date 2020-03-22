@@ -1,0 +1,3 @@
+/home/sam/dev/VTrace/CMakeFiles/rebuild_cache.dir
+/home/sam/dev/VTrace/CMakeFiles/VTrace.dir
+/home/sam/dev/VTrace/CMakeFiles/edit_cache.dir
